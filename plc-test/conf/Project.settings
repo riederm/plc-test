@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project-settings xmlns="http://www.bachmann.at/plc/configuration/projectsettings">
+	<memory-layout>
+		<global-memory-size>61440</global-memory-size>
+		<retain-memory-size>1024</retain-memory-size>
+		<max-pou-count>1024</max-pou-count>
+	</memory-layout>
+</project-settings>
